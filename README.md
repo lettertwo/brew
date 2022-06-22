@@ -1,4 +1,4 @@
-# Lettertwo Brew
+# Personal brew tap
 
 ## How do I install these formulae?
 
