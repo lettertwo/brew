@@ -1,4 +1,4 @@
-class Nnn < Formula
+class NnnNerdfont < Formula
   desc "Tiny, lightning fast, feature-packed file manager"
   homepage "https://github.com/jarun/nnn"
   license "BSD-2-Clause"
